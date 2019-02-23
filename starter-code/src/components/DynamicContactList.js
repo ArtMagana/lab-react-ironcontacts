@@ -83,16 +83,3 @@ class DynamicContactList extends Component {
   }
 
   export default DynamicContactList;
-
-  // class DynamicContactList extends Component {
-  //   constructor () {
-  //     super()
-  //     this.state = {
-  //       contactos: [
-
-  //       ]
-  //     }
-  //   }
-  // }
-
-  // 0 + Math.floor((Math.random() * (0 + contactList.length)))
